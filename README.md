@@ -1,5 +1,5 @@
 # AGNN
-Code of our paper "Attribute Graph Neural Networks for Strict Cold Start Recommendation" accepted by TKDE 2020.
+Code of our paper "[Attribute Graph Neural Networks for Strict Cold Start Recommendation](https://ieeexplore.ieee.org/document/9261110)" accepted by TKDE 2020.
 
 # Requirements
 * Python3.6
